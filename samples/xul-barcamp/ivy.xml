@@ -66,8 +66,8 @@
                 conf="default->default"/>
 
 
-    <dependency org="pentaho" name="pentaho-xul-swing" rev="TRUNK-SNAPSHOT" conf="default->default"/>
-    <dependency org="pentaho" name="pentaho-xul-swt" rev="TRUNK-SNAPSHOT" conf="default->default"/>
+    <dependency org="pentaho" name="pentaho-xul-swing" rev="${project.revision}" conf="default->default"/>
+    <dependency org="pentaho" name="pentaho-xul-swt" rev="${project.revision}" conf="default->default"/>
 
 
   </dependencies>
